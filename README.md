@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Facundo Prieto</h1>
 
-- 🌱 I’m currently learning **C and Algorithm**
+- 🌱 I’m currently learning **C and Algorithms**
 
 - 💬 Ask me about **JavaScript, Nodejs, ReactJs, Nextjs, ReactNative, Styled-components, Chakra-UI, TypeScript, Adonisjs**
 
