@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Facundo Prieto</h1>
 
-- 🌱 I’m currently learning **Nextjs, Chakra-UI, TypeScript**
+- 🌱 I’m currently learning **C and Algorithm**
 
-- 💬 Ask me about **JavaScript, ReactJs, ReactNative, Styled-components, Nodejs, Adonisjs**
+- 💬 Ask me about **JavaScript, Nodejs, ReactJs, Nextjs, ReactNative, Styled-components, Chakra-UI, TypeScript, Adonisjs**
 
 - 📫 How to reach me **facundo.prieto321@gmail.com**
