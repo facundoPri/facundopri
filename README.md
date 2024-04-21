@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Facundo Prieto</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, I'm Facundo Prieto</h1>
 <h3 align="center">A passionate fullstack developer with a strong passion for continuous learning and growth.</h3>
 
 - 🌱 I’m currently learning **AI, Cloud Computing Arquitectures, and Cybersecurity**
